@@ -19,53 +19,63 @@
             
             if (CurrentScore.Keys.Count == finalFrameNumber)
             {
-                switch (CurrentRoll)
-                {
-                    case 1:
-                        CurrentScore[finalFrameNumber] = new List<int> { pins };
-                        CurrentRoll++;
-                        break;
-                    case maxRollsInFinalFrame:
-                        CurrentScore[finalFrameNumber].Add(pins);
-                        Score();
-                        isPlaying = false;
-                        break;
-                    default:
-                        CurrentScore[finalFrameNumber].Add(pins);
-                        if (CurrentScore[finalFrameNumber].Sum() == maxPins) //if they got a spare or strike in final game they get another go.
-                        {
-                            CurrentRoll++;
-                        }
-                        else
-                        {
-                            var score = Score();
-                            isPlaying = false;
-                        }
-                        break;
-                }
+                RollInFinalFrame(pins);
             }
             else if (CurrentScore.Keys.Count < finalFrameNumber)
             {
-                if (CurrentRoll == 1)
-                {
-                    CurrentScore[CurrentFrame] = new List<int> { pins };
-                    if (pins == maxPins)
-                    {
-                        CurrentRoll = CurrentScore.Keys.Count == finalFrameNumber ? 2 : CurrentRoll;
-                        CurrentFrame++;
-                    }
-                    else
+                RollInStandardFrame(pins);
+            }           
+        }
+
+        private void RollInFinalFrame(int pins)
+        {
+            switch (CurrentRoll)
+            {
+                case 1:
+                    CurrentScore[finalFrameNumber] = new List<int> { pins };
+                    CurrentRoll++;
+                    break;
+                case maxRollsInFinalFrame:
+                    CurrentScore[finalFrameNumber].Add(pins);
+                    Score();
+                    isPlaying = false;
+                    break;
+                default:
+                    CurrentScore[finalFrameNumber].Add(pins);
+                    if (CurrentScore[finalFrameNumber].Sum() == maxPins) //if they got a spare or strike in final game they get another go.
                     {
                         CurrentRoll++;
                     }
-                }
-                else if (CurrentRoll == 2)
+                    else
+                    {
+                        var score = Score();
+                        isPlaying = false;
+                    }
+                    break;
+            }
+        }
+
+        private void RollInStandardFrame(int pins)
+        {
+            if (CurrentRoll == 1)
+            {
+                CurrentScore[CurrentFrame] = new List<int> { pins };
+                if (pins == maxPins)
                 {
-                    CurrentScore[CurrentFrame].Add(pins);
-                    CurrentRoll = 1;
+                    CurrentRoll = CurrentScore.Keys.Count == finalFrameNumber ? 2 : CurrentRoll;
                     CurrentFrame++;
                 }
-            }           
+                else
+                {
+                    CurrentRoll++;
+                }
+            }
+            else if (CurrentRoll == 2)
+            {
+                CurrentScore[CurrentFrame].Add(pins);
+                CurrentRoll = 1;
+                CurrentFrame++;
+            }
         }
                 
         public int Score()
