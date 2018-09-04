@@ -1,0 +1,44 @@
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.deps.json
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.runtimeconfig.json
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.runtimeconfig.dev.json
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.dll
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.csprojAssemblyReference.cache
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.csproj.CoreCompileInputs.cache
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.AssemblyInfoInputs.cache
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.AssemblyInfo.cs
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.pdb
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.dll
+C:\Users\hamis\Documents\Visual Studio 2017\Projects\ConcentraBowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.pdb
+C:\Users\hamishkeith\Downloads\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.csprojAssemblyReference.cache
+C:\Users\hamishkeith\Downloads\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.csproj.CoreCompileInputs.cache
+C:\Users\hamishkeith\Downloads\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.AssemblyInfoInputs.cache
+C:\Users\hamishkeith\Downloads\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.AssemblyInfo.cs
+C:\Users\hamishkeith\Downloads\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.dll
+C:\Users\hamishkeith\Downloads\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.pdb
+C:\Users\hamishkeith\Downloads\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.deps.json
+C:\Users\hamishkeith\Downloads\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.runtimeconfig.json
+C:\Users\hamishkeith\Downloads\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.runtimeconfig.dev.json
+C:\Users\hamishkeith\Downloads\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.dll
+C:\Users\hamishkeith\Downloads\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.pdb
+C:\Users\hamis\Desktop\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.deps.json
+C:\Users\hamis\Desktop\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.runtimeconfig.json
+C:\Users\hamis\Desktop\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.runtimeconfig.dev.json
+C:\Users\hamis\Desktop\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.dll
+C:\Users\hamis\Desktop\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.pdb
+C:\Users\hamis\Desktop\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.csprojAssemblyReference.cache
+C:\Users\hamis\Desktop\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.csproj.CoreCompileInputs.cache
+C:\Users\hamis\Desktop\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.AssemblyInfoInputs.cache
+C:\Users\hamis\Desktop\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.AssemblyInfo.cs
+C:\Users\hamis\Desktop\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.dll
+C:\Users\hamis\Desktop\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.pdb
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.deps.json
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.runtimeconfig.json
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.runtimeconfig.dev.json
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.dll
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\bin\Debug\netcoreapp2.1\ConcentraBowling.pdb
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.csprojAssemblyReference.cache
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.csproj.CoreCompileInputs.cache
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.AssemblyInfoInputs.cache
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.AssemblyInfo.cs
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.dll
+C:\Users\hamis\Desktop\Test\Bowling\ConcentraBowling\obj\Debug\netcoreapp2.1\ConcentraBowling.pdb
