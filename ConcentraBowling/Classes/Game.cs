@@ -37,7 +37,7 @@
                     break;
                 case maxRollsInFinalFrame:
                     CurrentScore[finalFrameNumber].Add(pins);
-                    Score();
+                    //Score();
                     isPlaying = false;
                     break;
                 default:
@@ -48,7 +48,7 @@
                     }
                     else
                     {
-                        var score = Score();
+                        //var score = Score();
                         isPlaying = false;
                     }
                     break;
