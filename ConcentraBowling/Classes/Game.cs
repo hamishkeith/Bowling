@@ -8,7 +8,7 @@
     public class Game : IGame
     {
         const int maxPins = 10, finalFrameNumber = 10, maxRollsInFinalFrame = 3;
-        public bool isPlaying = true; //used by the console app only
+        public bool isPlaying { get; private set; } = true; //used by the console app only
         public Dictionary<int, List<int>> CurrentScore { get; set; } = new Dictionary<int, List<int>>(); //holds score - key is the frame number and the array of int's is the scores
         private int CurrentRoll { get; set; } = 1;
         public int CurrentFrame { get; set; } = 1;
@@ -37,7 +37,6 @@
                     break;
                 case maxRollsInFinalFrame:
                     CurrentScore[finalFrameNumber].Add(pins);
-                    //Score();
                     isPlaying = false;
                     break;
                 default:
@@ -48,7 +47,6 @@
                     }
                     else
                     {
-                        //var score = Score();
                         isPlaying = false;
                     }
                     break;

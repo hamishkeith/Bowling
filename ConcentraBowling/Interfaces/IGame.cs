@@ -1,7 +1,8 @@
 ﻿namespace ConcentraBowling.Interfaces
 {
-    interface IGame
+    public interface IGame
     {
+        bool isPlaying { get; }
         void Roll(int pins);
         int Score();
         int NumberOfPinsRemainingInFrame();
